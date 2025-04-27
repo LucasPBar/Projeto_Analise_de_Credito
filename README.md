@@ -1,8 +1,5 @@
 # 🪙💰 Projeto Análise de Crédito
 
-![Uploading Designer (14).jpeg…]()
-
-
 ## 📖 Contextualização
 
 Você faz parte da equipe de análise de dados de uma instituição financeira que analisa pedidos de empréstimos. Para cada cliente, são coletadas informações como idade, renda anual, histórico de crédito, histórico de inadimplência, valor do empréstimo solicitado e se o cliente foi ou não aprovado para o crédito.
