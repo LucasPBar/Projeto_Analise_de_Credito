@@ -73,8 +73,6 @@ Este projeto reforçou minhas habilidades práticas em:
 - Análise exploratória e estatística de dados.
 - Comunicação visual de resultados através de gráficos.
 
-🔎 **Este projeto está em evolução contínua**, e nas próximas fases, terá implementação de modelos de machine learning e um dashboard interativo para stakeholders.
-
 ---
 
 ## Contato:
