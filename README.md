@@ -1,4 +1,4 @@
-# 📚 Projeto de Simulação e Análise de Crédito
+# 📚 Projeto Análise de Crédito
 
 ## 🏦 Contextualização
 
@@ -12,7 +12,6 @@ Este projeto foi desenvolvido como uma simulação prática com o objetivo de fo
 
 - Gerar um conjunto de dados aleatórios que represente o cenário de pedidos de empréstimos.
 - Realizar uma análise estatística básica para entender as variáveis e suas relações.
-- Implementar um modelo de classificação para prever a aprovação de empréstimos.
 - Focar em uma implementação detalhada e desafiadora na parte de programação, criando funções reutilizáveis e estruturadas.
 
 ---
