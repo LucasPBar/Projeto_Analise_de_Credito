@@ -1,6 +1,9 @@
-# 📚 Projeto Análise de Crédito
+# 🪙💰 Projeto Análise de Crédito
 
-## 🏦 Contextualização
+![Uploading Designer (14).jpeg…]()
+
+
+## 📖 Contextualização
 
 Você faz parte da equipe de análise de dados de uma instituição financeira que analisa pedidos de empréstimos. Para cada cliente, são coletadas informações como idade, renda anual, histórico de crédito, histórico de inadimplência, valor do empréstimo solicitado e se o cliente foi ou não aprovado para o crédito.
 
@@ -38,20 +41,7 @@ Este projeto foi desenvolvido como uma simulação prática com o objetivo de fo
   - Impacto do histórico de inadimplência no resultado do crédito.
 - **Extração de insights estratégicos** para possíveis ações dos times de risco, crédito e marketing.
 - **Visualizações personalizadas** para melhor comunicação dos dados, utilizando gráficos de barras, pizza e comparativos.
-
----
-
-## 🔮 Próximos Passos
-
-- **Aprofundamento na Modelagem Preditiva**:
-  - Implementar modelos de classificação (Árvore de Decisão, Random Forest, Regressão Logística).
-- **Aprimoramento do Dataset**:
-  - Adicionar variáveis como tempo de emprego, número de dependentes e tipo de contrato.
-- **Automatização de Processos**:
-  - Criar pipelines para pré-processamento, análise e modelagem.
-- **Deploy de Aplicação**:
-  - Desenvolver um dashboard interativo (com Streamlit ou Dash) para consulta de insights em tempo real.
-
+  
 ---
 
 ## 📝 Conclusão Final
