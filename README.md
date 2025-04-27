@@ -6,7 +6,8 @@
 
 Você faz parte da equipe de análise de dados de uma instituição financeira que analisa pedidos de empréstimos. Para cada cliente, são coletadas informações como idade, renda anual, histórico de crédito, histórico de inadimplência, valor do empréstimo solicitado e se o cliente foi ou não aprovado para o crédito.
 
-Este projeto foi desenvolvido como uma simulação prática com o objetivo de fortalecer habilidades em análise exploratória de dadose geração de insights.
+Este projeto foi desenvolvido como uma simulação prática com o objetivo de fortalecer habilidades em análise exploratória de dados e geração de insights.
+
 ---
 
 ## 🎯 Objetivos do Projeto
