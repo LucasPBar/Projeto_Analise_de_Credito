@@ -1,4 +1,4 @@
-# 🪙💰 Projeto Análise de Crédito
+# 🪙💰 Análise de Crédito
 
 ![Image](https://github.com/user-attachments/assets/32a387b8-be2f-42a5-accd-66b38565886b)
 
